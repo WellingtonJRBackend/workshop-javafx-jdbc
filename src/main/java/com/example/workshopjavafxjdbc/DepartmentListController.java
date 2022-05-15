@@ -47,7 +47,7 @@ public class DepartmentListController implements Initializable {
     }
 
     private void initialize() {
-        tableColumnId.setCellValueFactory(c-> c.getValue().idProperty().asObject());
+        tableColumnId.setCellValueFactory(c -> c.getValue().idProperty().asObject());
         tableColumnName.setCellValueFactory(c -> c.getValue().nameProperty());
 
         Stage stage = (Stage) HelloApplication.getMainScene().getWindow();

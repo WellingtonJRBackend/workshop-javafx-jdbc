@@ -38,3 +38,9 @@ N
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+q
+Asrc/main/java/com/example/workshopjavafxjdbc/HelloController.java,e\8\e8b61dd55a05ecf99e5d223288b8124e7cc1d1b6
+Y
+)src/main/java/com/example/gui/Alerts.java,d\1\d106192b6ccfe9748affdafff9adef9c879fc4b2
+^
+.src/main/java/com/example/gui/Constraints.java,1\1\11a423b2dd0c117e2615a42e96bd012cd9070b25
